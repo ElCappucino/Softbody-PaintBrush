@@ -1,4 +1,4 @@
-his is a project decicated to DT465 Physical Simulation for Computer Graphic subject
+his is a project dedicated to DT465 Physical Simulation for Computer Graphic subject
 
 The code mainly inspired by
 
